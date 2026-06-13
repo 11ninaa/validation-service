@@ -1,0 +1,5 @@
+src/main/resources/keystore.p12
+
+private.key
+signature.sig
+moj_sertifikat.crt
